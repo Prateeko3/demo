@@ -1,3 +1,4 @@
 # demo
 First college repository
-Author-Prateek Goyal
+<br>
+Author-Prateek (Goyal)
